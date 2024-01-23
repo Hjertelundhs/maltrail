@@ -251,7 +251,25 @@ for ip in $(curl http://127.0.0.1:8338/fail2ban 2>/dev/null | grep -P '^[0-9.]+$
 iptables -I INPUT -m set --match-set maltrail src -j DROP
 ```
 
+Option `BLACKLIST` allows to build regular expressions to apply on one field. For each rule, the syntax is : `<field> <control> <regexp>` where :
+* `field` indicates the field to compage, it can be: `src_ip`,`src_port`,`dst_ip`,`dst_port`,`protocol`,`type`,`trail` or `filter`.
+* `control` can be either `~` for *matches* or `!~` for *doesn't match*
+* `regexp` is the regular expression to apply to the field.
+Chain another rule with the `and` keyword (the `or` keyword is not supported, just add a line for this).
 
+You can use the keyword `BLACKLIST` alone or add a name : `BLACKLIST_NAME`. In the latter case, the url will be : `/blacklist/name`
+
+For example, the following will build an out blacklist for all traffic from another source than `192.168.0.0/16` to destination port `SSH` or matching the filters `scan` or `known attacker`
+```
+BLACKLIST_OUT
+    src_ip !~ ^192.168. and dst_port ~ ^22$
+    src_ip !~ ^192.168. and filter ~ scan
+    src_ip !~ ^192.168. and filter ~ known attacker
+
+BLACKLIST_IN
+    src_ip ~ ^192.168. and filter ~ malware
+```
+The way to build ipset blacklist is the same (see above) excepted that URLs will be `/blacklist/in` and `/blacklist/out` in our example.
 
 Same as for **Sensor**, when running the **Server** (e.g. `python server.py`) for the first time and/or after a longer period of non-running, if option `USE_SERVER_UPDATE_TRAILS` is set to `true`, it will automatically update the trails from trail definitions (Note: stored inside the `trails` directory). Its basic function is to store the log entries inside the logging directory (i.e. option `LOG_DIR` inside the `maltrail.conf` file's section `[All]`) and provide the web reporting interface for presenting those same entries to the end-user (Note: there is no need install the 3rd party web server packages like Apache):
 
@@ -588,6 +606,7 @@ This software is provided under a MIT License. See the accompanying [LICENSE](ht
 * [OPNSense Gateway Plugin](https://github.com/opnsense/plugins/pull/1257)
 * [D4 Project](https://www.d4-project.org/2019/09/25/maltrail-integration.html)
 * [BlackArch Linux](https://github.com/BlackArch/blackarch/blob/master/packages/maltrail/PKGBUILD)
+* [Validin LLC](https://twitter.com/ValidinLLC/status/1719666086390517762)
 * [GScan](https://github.com/grayddq/GScan) <sup>1</sup>
 * [MalwareWorld](https://www.malwareworld.com/) <sup>1</sup>
 * [oisd | domain blocklist](https://oisd.nl/?p=inc) <sup>1</sup>
@@ -597,5 +616,6 @@ This software is provided under a MIT License. See the accompanying [LICENSE](ht
 * [Mobile-Security-Framework-MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF/commit/12b07370674238fa4281fc7989b34decc2e08876) <sup>1</sup>
 * [pfBlockerNG-devel](https://github.com/pfsense/FreeBSD-ports/blob/devel/net/pfSense-pkg-pfBlockerNG-devel/files/usr/local/www/pfblockerng/pfblockerng_feeds.json) <sup>1</sup>
 * [Sansec eComscan](https://sansec.io/kb/about-ecomscan/ecomscan-license)<sup>1</sup>
+* [Palo Alto Networks Cortex XSOAR](https://xsoar.pan.dev/docs/reference/integrations/github-maltrail-feed)<sup>1</sup>
  
 <sup>1</sup> Using (only) trails

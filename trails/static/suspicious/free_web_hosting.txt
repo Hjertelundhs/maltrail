@@ -1,4 +1,4 @@
-# Copyright (c) 2014-2023 Maltrail developers (https://github.com/stamparm/maltrail/)
+# Copyright (c) 2014-2024 Maltrail developers (https://github.com/stamparm/maltrail/)
 # See the file 'LICENSE' for copying permission
 
 # User reported
@@ -465,3 +465,7 @@ medianewsonline.com
 # Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2022-11-17-v10175/164
 
 mypressonline.com
+
+# Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2023-11-16-v10467/1126
+
+infinityfreeapp.com

@@ -1,4 +1,4 @@
-# Copyright (c) 2014-2023 Maltrail developers (https://github.com/stamparm/maltrail/)
+# Copyright (c) 2014-2024 Maltrail developers (https://github.com/stamparm/maltrail/)
 # See the file 'LICENSE' for copying permission
 
 # Generic detection for compromised WordPress CMS
@@ -1842,17 +1842,92 @@ stay.decentralappps.com
 stock.decentralappps.com
 way.decentralappps.com
 
+# Reference: https://www.virustotal.com/gui/ip-address/111.90.141.192/relations
+# Reference: https://www.virustotal.com/gui/ip-address/185.177.94.180/relations
+# Reference: https://app.validin.com/axon?source=DNS&type=ip&find=111.90.141.192
+
+allowww.com
+blacklinetosplit.com
+getfailfilm.com
+whitelinetosplit.com
+0.allowww.com
+1.allowww.com
+2.allowww.com
+3.allowww.com
+4.allowww.com
+5.allowww.com
+6.allowww.com
+7.allowww.com
+8.allowww.com
+9.allowww.com
+10.allowww.com
+0.blacklinetosplit.com
+1.blacklinetosplit.com
+2.blacklinetosplit.com
+0.getfailfilm.com
+1.getfailfilm.com
+2.getfailfilm.com
+3.getfailfilm.com
+4.getfailfilm.com
+5.getfailfilm.com
+6.getfailfilm.com
+7.getfailfilm.com
+8.getfailfilm.com
+9.getfailfilm.com
+10.getfailfilm.com
+0.whitelinetosplit.com
+2.whitelinetosplit.com
+from.whitelinetosplit.com
+goto.whitelinetosplit.com
+select.blacklinetosplit.com
+
+# Reference: https://www.virustotal.com/gui/ip-address/185.177.94.194/relations
+
+gadgetnews.one
+gomajorlink.com
+m-video.shop
+major-video.click
+majoriklink.com
+majorikmedia.com
+majorilink.com
+majorius.com
+majorlink.club
+majorlinker.biz
+majorlinker.com
+majormedialink.com
+majorpush.shop
+majorsmi.com
+majortoplink.com
+n1major.com
+n2major.com
+n3major.com
+notrobot.top
+
 # Reference: https://www.virustotal.com/gui/ip-address/80.66.79.252/relations
 # Reference: https://www.virustotal.com/gui/ip-address/80.66.79.253/relations
 
 bridgelinering.com
+colorschemeas.com
 lightsteper.com
 promsmotion.com
+210net.promsmotion.com
+211.210net.promsmotion.com
+232.211.210net.promsmotion.com
+2fservice.specialcraftbox.com
+46.232.211.210net.promsmotion.com
+all.colorschemeas.com
+call.colorschemeas.com
+et.promsmotion.com
+fecall.colorschemeas.com
+gate.promsmotion.com
+generic.service.specialcraftbox.com
 get.lightsteper.com
 get.promsmotion.com
+getl.promsmotion.com
 go.bridgelinering.com
 net.promsmotion.com
 page.specialnewspaper.com
+s.specialcraftbox.com
 show.bridgelinering.com
 
 # Reference: https://www.virustotal.com/gui/ip-address/2.59.222.157/relations
@@ -1915,10 +1990,12 @@ getsmallcount.com
 gybritanalytsesystem.com
 playerofsunshine.com
 selectofmychoices.com
+startperfectsolutions.com
 bee.selectofmychoices.com
 best.playerofsunshine.com
 call.getsmallcount.com
 come.statisticplatform.com
+comsecond.gybritanalytsesystem.com
 debest.playerofsunshine.com
 econd.gybritanalytsesystem.com
 emv1.selectofmychoices.com
@@ -1927,36 +2004,91 @@ excellent.playerofsunshine.com
 exelent.playerofsunshine.com
 fifth.gybritanalytsesystem.com
 first.gybritanalytsesystem.com
+five.startperfectsolutions.com
+for.getsmallcount.com
+four.startperfectsolutions.com
 fourth.gybritanalytsesystem.com
 get.statisticplatform.com
 good.playerofsunshine.com
 got.statisticplatform.com
 great.playerofsunshine.com
 here.selectofmychoices.com
-mejor.playerofsunshine.com
 meilleur.playerofsunshine.com
+mejor.playerofsunshine.com
 normal.playerofsunshine.com
+one.startperfectsolutions.com
 prueba.selectofmychoices.com
 qwer.gybritanalytsesystem.com
 root.selectofmychoices.com
 second.gybritanalytsesystem.com
 third.gybritanalytsesystem.com
+three.startperfectsolutions.com
 trry.selectofmychoices.com
 try.selectofmychoices.com
+two.startperfectsolutions.com
 was.selectofmychoices.com
 where.selectofmychoices.com
+browsermine.comsecond.gybritanalytsesystem.com
 test20102023.debest.playerofsunshine.com
 
+# Reference: https://blog.sucuri.net/2024/01/thousands-of-sites-with-popup-builder-compromised-by-balada-injector.html
+# Reference: https://infosec.exchange/@rmceoin/111665788958104483
 # Reference: https://www.virustotal.com/gui/ip-address/80.66.79.248/relations
+# Reference: https://app.validin.com/axon?find=80.66.79.248/30&type=ip4
 
+bestdarkbars.com
+bestlightbars.com
+bestselllerservice.com
 betradingway.com
+blueperfectballon.com
+bluesmallbutterfly.com
+clearblueline.com
+cleargreenline.com
+clearlinesprice.com
+creativemanagercircle.com
+creativemanagerline.com
+darkspecialbars.com
+daynitroglass.com
+goldflowerservice.com
+greenfastline.com
+greensmallbutterfly.com
+lightgreenstep.com
+lightredstep.com
+lightspecialbars.com
+lineferaline.com
+nightnitroglass.com
+openspecificdark.com
+openspecificwhite.com
+redperfectballon.com
 selectchoise.com
+solohostering.com
+somenewforyou.com
+specialcraftbox.com
 statisticplatform.com
+stoneblacksort.com
+stonewhitesort.com
+sunshineblackcolor.com
+sunshinewhitecolor.com
+topgiftsforusers.com
+trackspecialdomain.com
+workandbestservice.com
+workandgoodservice.com
+domain-service.specialcraftbox.com
+fine.greenfastline.com
+get.specialcraftbox.com
 give.selectchoise.com
+goaway.betradingway.com
 got.selectchoise.com
 goto.betradingway.com
+goto.lineferaline.com
+namesoft.specialcraftbox.com
 north.statisticplatform.com
+rest.greenfastline.com
+service.specialcraftbox.com
+soft.specialcraftbox.com
 startup.betradingway.com
+stone.betradingway.com
+store.bestselllerservice.com
 west.statisticplatform.com
 
 # Reference: https://www.virustotal.com/gui/ip-address/80.66.79.249/relations
@@ -1970,6 +2102,19 @@ forwardstarlight.com
 follow.forwardstarlight.com
 from.forwardstarlight.com
 stay.forwardstarlight.com
+
+# Reference: https://twitter.com/banthisguy9349/status/1744397694443848035
+
+statisticsplatform.com
+comwest.statisticsplatform.com
+done.forwardstarlight.com
+east.statisticsplatform.com
+finish.selectchoise.com
+north.statisticsplatform.com
+page.bridgelinering.com
+shop.bridgelinering.com
+start.selectchoise.com
+west.statisticsplatform.com
 
 # Reference: https://twitter.com/unmaskparasites/status/1719152791875420655
 
@@ -2085,3 +2230,56 @@ sweetsbonus.life
 topgame-4adult.life
 yourwin.life
 tracker-cloud.com
+
+# Reference: https://twitter.com/unmaskparasites/status/1727470416388874683
+
+gcdnanalytics.com
+metricaga.com
+metricastats.com
+quickcontentnetwork.com
+cdn.metricastats.com
+fast.quickcontentnetwork.com
+gll.metricaga.com
+syndication.gcdnanalytics.com
+
+# Reference: https://www.virustotal.com/gui/ip-address/45.140.146.101/relations
+
+finish.lineferaline.com
+
+# Reference: https://twitter.com/unmaskparasites/status/1747690203941396671
+
+flyspecialline.com
+cdn.flyspecialline.com
+near.flyspecialline.com
+
+# Reference: https://twitter.com/karol_paciorek/status/1747886529370841512
+
+platformspecial.com
+get.platformspecial.com
+post.platformspecial.com
+
+# Reference: https://www.wordfence.com/blog/2023/12/psa-fake-cve-2023-45124-phishing-scam-tricks-users-into-installing-backdoor-plugin/
+# Reference: https://blog.sucuri.net/2023/12/analysis-of-the-fake-wordpress-cve-2023-46182-patch-plugin-phishing-campaign.html
+# Reference: https://otx.alienvault.com/pulse/656f2ee901a8cdd523b08cb8
+# Reference: https://www.virustotal.com/gui/ip-address/193.32.162.240/relations
+
+en-ca-wordpress.org
+en-gb-wordpress.org
+en-us-wordpress.org
+secureplatform.org
+securityplugins.org
+wordpress.secureplatform.org
+wordpress.securityplugins.org
+wpgate.zip
+wpops.zip
+wpsrv.zip
+wpsys.zip
+
+# Reference: https://thehackernews.com/2024/01/balada-injector-infects-over-7100.html
+# Reference: https://www.secureblink.com/cyber-security-news/6-200-word-press-sites-with-popup-builder-plugin-infected-by-new-balada-1
+# Reference: https://www.malcare.com/blog/wp-vcd-php-malware-removal/
+
+/wp-felody/wp-felody.php
+/wp-includes/wp-vcd.php
+/wp-felody.php
+/wp-vcd.php

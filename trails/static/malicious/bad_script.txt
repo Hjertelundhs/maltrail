@@ -1,4 +1,4 @@
-# Copyright (c) 2014-2023 Maltrail developers (https://github.com/stamparm/maltrail/)
+# Copyright (c) 2014-2024 Maltrail developers (https://github.com/stamparm/maltrail/)
 # See the file 'LICENSE' for copying permission
 
 # Reference: https://blog.alyac.co.kr/2347
@@ -396,7 +396,7 @@
 /out-571924757.hta
 /out-756898907.hta
 
-# Refecerence: https://twitter.com/bit_dam/status/1256311982992633862
+# Reference: https://twitter.com/bit_dam/status/1256311982992633862
 
 /new%201.hta
 
@@ -2750,7 +2750,7 @@ tunacan-812.tk
 /cachetfmbUXkGerOtP.php
 /_cachetfmbUXkGerOtP.php
 
-# Refefrence: https://www.virustotal.com/gui/ip-address/141.8.194.74/relations
+# Reference: https://www.virustotal.com/gui/ip-address/141.8.194.74/relations
 
 /9ldfcvv539grtjr1krbwrbsf.php
 
@@ -3802,7 +3802,7 @@ tunacan-812.tk
 
 /25692ea80cd968.php
 
-# Reference: # Reference: https://twitter.com/James_inthe_box/status/1349360887186874371
+# Reference: https://twitter.com/James_inthe_box/status/1349360887186874371
 
 /eea5c8636b504d.php
 
@@ -4245,7 +4245,7 @@ d27qdop2sa027t.cloudfront.net
 /3dbea0f5d87dcc.php
 
 # Reference: https://twitter.com/r3dbU7z/status/1381517028817825795
-# Reference: # Reference: https://twitter.com/r3dbU7z/status/1457338809566343168
+# Reference: https://twitter.com/r3dbU7z/status/1457338809566343168
 # Reference: https://www.virustotal.com/gui/url/026ec2ee22c5b8a04806a13701238e971565cd80d9ca10a0be85c80f4222fa9e/details
 
 /payload1.apsx
@@ -4902,7 +4902,7 @@ g.d.cg
 
 https-center.net
 
-# Reference: # Reference: https://twitter.com/pr0xylife/status/1450047080089759745
+# Reference: https://twitter.com/pr0xylife/status/1450047080089759745
 
 /b04042b22b2b6179257d.php
 
@@ -6395,7 +6395,9 @@ wildhottiegirls.com
 
 # Reference: https://twitter.com/wwp96/status/1628273497708326912
 # Reference: https://blog.sekoia.io/stealc-a-copycat-of-vidar-and-raccoon-infostealers-gaining-in-popularity-part-1/
+# Reference: https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel/blob/main/2024-01-12-IOCs-from-StealC-activity.txt
 
+/0d8af8f06ba4b880.php
 /273d9c8034a95cb4.php
 /413a030d85acf448.php
 /6842f013779f3d08.php
@@ -6407,6 +6409,8 @@ wildhottiegirls.com
 /bef7fb05c9ef6540.php
 /c1377b94d43eacea.php
 /d8ab11e9f7bc9c13.php
+/de4846fc29f26952.php
+/f0b7e3704c0051f9.php
 /f9f76ae4bb7811d9.php
 
 # Reference: https://twitter.com/malwrhunterteam/status/1628482090114203649
@@ -6606,6 +6610,10 @@ tpc.cdn-linkedin.info
 # Reference: https://twitter.com/James_inthe_box/status/1663586640101793793
 
 /5de6a3ffd5d23c.php
+
+# Reference: https://threatfox.abuse.ch/ioc/1211511/
+
+/e59783f5c53b6e.php
 
 # Reference: https://twitter.com/threatintel/status/1663920614887899152
 
@@ -6844,14 +6852,18 @@ tpc.cdn-linkedin.info
 
 # Reference: https://threatfox.abuse.ch/browse/malware/win.stealc/
 # Reference: https://github.com/Gi7w0rm/MalwareConfigLists/blob/main/stealc/stealc_c2s_2022_to_2023.txt
+# Reference: https://www.virustotal.com/gui/file/041be18344ea8da345923dd5d2421ad79ed888bca4a9ceebe0aa1030c75e5602/detection
 
+/00b977b5ca6bb253.php
 /0156a772a135ba9f.php
 /0243ec92ae2268d1.php
+/08f7c1a754119dda.php
 /09c9de54c6be1727.php
 /09e4d23b10828340.php
 /0cf6bfa19d78b1fb.php
 /0fad59ad7536045a.php
 /1088863268ab0b62.php
+/10bfb33db816f4b6.php
 /11acf293b39e9ca9.php
 /14514d160075033b.php
 /14baef17b6d04c23.php
@@ -6866,9 +6878,12 @@ tpc.cdn-linkedin.info
 /1ba5bb0d68094a78.php
 /1c80d1b40e06f613.php
 /1d9e38415ea54afa.php
+/1da263bff25c8346.php
 /1e9258f73c297510.php
 /1eee64e8b97cf4c0.php
 /1f1ba0e25ee80277.php
+/1fa9cf51b66b1f7e.php
+/21b9c0db1dfb4718.php
 /2358d131c82bf789.php
 /25d4fc7fb0cb6b78.php
 /27e2c065315ea17e.php
@@ -6877,6 +6892,7 @@ tpc.cdn-linkedin.info
 /2b1fd477f413315b.php
 /2c843dccbeb16860.php
 /2e12d77e23b78d01.php
+/31dd08d447d463d4.php
 /31f2a38ac74a9d54.php
 /32995c13678be6b6.php
 /329b7da7ac4c3538.php
@@ -6888,11 +6904,14 @@ tpc.cdn-linkedin.info
 /3aa13fff14e398a1.php
 /3abba6c092087efb.php
 /3b4f49719257c673.php
+/3b7d27a7af0da219.php
 /3cd43889ddd6a80f.php
 /3d980df4aa7e4a91.php
+/40d570f44e84a454.php
 /40dbbf2fac0226a6.php
 /410b5129171f10ea.php
 /41d2cff0d1206cba.php
+/43851895e447afd7.php
 /43e18f2a3b646c54.php
 /46212e2326deb951.php
 /482ca91956745c96.php
@@ -6902,11 +6921,14 @@ tpc.cdn-linkedin.info
 /4b91eb784a77478c.php
 /4e6508e4090e861a.php
 /4e815d9f1ec482dd.php
+/4ea69013b92ecb73.php
 /4f230c0dd4efa481.php
 /5065bfaf5315fdfb.php
 /507d5f6a261ae9ed.php
+/518893e599328c52.php
 /5196ba262b6d60e7.php
 /522d6f9280951d7f.php
+/56f47e918c5386bf.php
 /582e11ffc8500b8f.php
 /585a069844ca672e.php
 /59b232f2b6dc5770.php
@@ -6917,6 +6939,7 @@ tpc.cdn-linkedin.info
 /603aeb43718ab133.php
 /60ed11b9deeca694.php
 /61075d6e14fcb071.php
+/626e62981e663996.php
 /628ddfb216f373ea.php
 /6333ebeebfa39cd2.php
 /6338efb1723e277d.php
@@ -6934,6 +6957,7 @@ tpc.cdn-linkedin.info
 /72cd883ebd748330.php
 /72e62e029dc81ebf.php
 /7322cd0544d1389a.php
+/73354587f0a8b50c.php
 /7525b57b5f844240.php
 /75c330d4b64e47af.php
 /75e7ead3c17835de.php
@@ -6961,6 +6985,7 @@ tpc.cdn-linkedin.info
 /88f3e0ab5b24337d.php
 /8aa296a5a560dea2.php
 /8c790830ecbaab3b.php
+/8d7eb205be988bbb.php
 /8f2f4cb4b10b6e96.php
 /9046019a53d66236.php
 /91541f2f0ca4ecd4.php
@@ -6970,6 +6995,7 @@ tpc.cdn-linkedin.info
 /9827126d94c3e848.php
 /9a54e32a8b27f71c.php
 /9af57c9106bf2c01.php
+/9cb3d6163ee69f03.php
 /9fd9dde806b954c2.php
 /a2f524d70db7d1a7.php
 /a431f538ac55c20c.php
@@ -6999,6 +7025,7 @@ tpc.cdn-linkedin.info
 /bded386f853bed13.php
 /bed95ea4798a5204.php
 /bf7893cc2d43c936.php
+/c36258786fdc16da.php
 /c41508a3857f34c3.php
 /c512076c2057872e.php
 /c52446cd272c84b7.php
@@ -7010,6 +7037,7 @@ tpc.cdn-linkedin.info
 /caae677175cf27ed.php
 /caf30a92b9c4fec2.php
 /cc18c73c655f48b7.php
+/cdc8cb4ba5f9dfaa.php
 /cf2bf91a3641f615.php
 /d04727a8ed5e33a1.php
 /d130c39575999622.php
@@ -7024,6 +7052,7 @@ tpc.cdn-linkedin.info
 /e2f2e5114a761f4b.php
 /e4ebc4b8c00b7089.php
 /e50a8a413d120466.php
+/e5f9db40aa1d5c5c.php
 /e80131c8e877ed2e.php
 /e9131e1df8a3fa06.php
 /e9c345fc99a4e67e.php
@@ -7286,6 +7315,221 @@ tpc.cdn-linkedin.info
 /more_page.hta
 /more_page.ps1
 
+# Reference: https://twitter.com/doc_guard/status/1720030244516643274
+# Reference: https://www.virustotal.com/gui/file/aee00173af3d3e8630696a72bd942522543734c26b37afeffbee6d2057285a9a/detection
+
+/HTMLIEbrowserSShistory.vbs
+/HTMLIEcentosBrowserHistory.vbs
+
+# Reference: https://threatfox.abuse.ch/ioc/1198171/
+
+/80c2d1651b23ae.php
+
+# Reference: https://twitter.com/Gi7w0rm/status/1721564409800142986
+
+/open_WinCryptoWallet.ps1
+
+# Reference: https://threatfox.abuse.ch/ioc/1199442/
+
+/61b46e405d2c1c.php
+
+# Reference: https://threatfox.abuse.ch/ioc/1199773/
+
+/2dd77469.php
+
+# Reference: https://twitter.com/Slvlombardo/status/1722207081699414430
+
+/wp-includes/ww-new-rta01/dtrta.php
+/wp-includes/ww-new-rta01/
+/ww-new-rta01/dtrta.php
+/ww-new-rta01/
+
+# Reference: https://twitter.com/malwrhunterteam/status/1723017726120149327
+
+/stager_persist_rat.hta
+/stager_persist_rat.ps1
+
+# Reference: https://threatfox.abuse.ch/ioc/1201607/
+
+/06642940.php
+/30055d25.php
+/396833e4.php
+/3bd148da.php
+/6ea41d52.php
+/720420a0.php
+/8a5ea326.php
+/917abd55.php
+/945f1075.php
+/b1e57687.php
+/e78a6263.php
+
+# Reference: https://twitter.com/suyog41/status/1725500179829436655
+# Reference: https://www.virustotal.com/gui/ip-address/52.221.191.170/relations
+# Reference: https://www.virustotal.com/gui/file/dd2b2215977ca4822769a16487e4c22b331ac1fb09791cbde6ee98ae72408137/detection
+
+/jakart/bizposting.php
+
+# Reference: https://twitter.com/doc_guard/status/1725564939878756608
+# Reference: https://www.virustotal.com/gui/file/33d3af4cae982d5f0456f3b13d5dcf90506c0262e2900d4ef32a4e01a59628bc/detection
+# Reference: https://www.virustotal.com/gui/file/92343dd76241c60af94b8ccd1d841539dce75f61baf0c8f7eb655244e7c74f5d/detection
+# Reference: https://www.virustotal.com/gui/file/96c62314d9fe9d18efb86551ac411d17de0e9ecda19654355da9b5e80ef91cf0/detection
+
+/not/notoku.php
+/not/notoku.php?urlcode=
+
+# Reference: https://twitter.com/MaxRogers5/status/1727115516509126824
+
+/F8PtZ87fE8dJWqe.hta
+/QfjzVlfbQT0H.hta
+
+# Reference: https://twitter.com/1ZRR4H/status/1727498375946289495
+
+/bot1.py
+/mahoa.py
+
+# Reference: https://twitter.com/malwrhunterteam/status/1728175485853872427
+# Reference: https://www.virustotal.com/gui/file/72829a5407ecd5607613f6351019302ba8c55317f4f3dff1f8280f7c3e7b4897/detection
+
+/a1111647095336d8170db2cb1d9870f9.php
+
+# Reference: https://www.trendmicro.com/en_us/research/23/k/attack-signals-possible-return-of-genesis-market.html
+# Reference: https://www.trendmicro.com/content/dam/trendmicro/global/en/research/23/k/attack-signals-possible-return-of-genesis-market/iocs-attack-signals-possible-return-of-genesis-market.txt
+# Reference: https://otx.alienvault.com/pulse/65609160cddfd2987cac2ef3
+
+/obfs3ip2.bs64
+
+# Reference: https://twitter.com/1ZRR4H/status/1729196411843985530
+
+/passportscan.hta
+
+# Reference: https://twitter.com/alex_lanstein/status/1732485636601319519
+# Reference: https://www.virustotal.com/gui/file/88f64c6021b469a40d3d5bf6ab0f563313caafe5e5ba79854cc31f880636c152/detection
+
+/atoletter2.hta
+/atoletter3.hta
+/atoletter5555.hta
+/atoletter6.hta
+/passportscan.hta
+/scan_058883.hta
+
+# Reference: https://twitter.com/malware_traffic/status/1732437588059832338
+
+/jeyhivxb.php
+/lovtqtyl.php
+
+# Reference: https://www.virustotal.com/gui/file/0c3affef7b7928a44cf5050ed0d38724bf182993db63f786eb926007bd135323/detection
+
+/a051212x/16/load.php
+
+# Reference: https://twitter.com/banthisguy9349/status/1734301694719050200
+
+/coldfusion_rce.py
+/evilrmiservernew.class
+/springboot-jdbc-deserialization-rce.py
+
+# Reference: https://twitter.com/JustWantToQ1/status/1735870555373355048
+
+/ak12sd3.ps1
+/ak12sd3.hta
+/ak12sd3.php
+/ak12sd3.py
+
+# Reference: https://twitter.com/1ZRR4H/status/1736870188480434417
+
+/xccc.hta
+
+# Reference: https://twitter.com/doc_guard/status/1737494486295486473
+# Reference: https://app.docguard.io/4bfc29dff0955937190a085c6114d5019555558ed4a79b4fcb75a18ed28a3252/results/dashboard
+# Reference: https://www.virustotal.com/gui/file/4bfc29dff0955937190a085c6114d5019555558ed4a79b4fcb75a18ed28a3252/detection
+
+/Malware/l.php
+
+# Reference: https://twitter.com/1ZRR4H/status/1737237724644655591
+# Reference: https://www.virustotal.com/gui/file/57561423590dd2334269cd4cdf22ffc267f202ff0e954cb49b73a292b4492172/detection
+# Reference: https://www.virustotal.com/gui/file/0081ec4836a7ecf5b428ba410dc9a86d679cb0d6ef8bb52dc7c8721efc3a4b3d/detection
+
+/agent1.ps1
+/agent3.ps1
+/sd2.ps1
+/sd4.ps1
+
+# Reference: https://twitter.com/malwrhunterteam/status/1738254214353064420
+# Reference: https://www.virustotal.com/gui/file/bd871a2ccd6d7c4f89f9f5087e60cfdcc7ab35b670cfda7ddfd6dbbab8c8560c/detection
+
+/algo.hta
+
+# Reference: https://github.com/executemalware/Malware-IOCs/blob/main/2023-12-22%20AsyncRAT%20IOCs
+
+/eq2c1svfjphtr.php
+
+# Reference: https://twitter.com/V3n0mStrike/status/1740461394250641595
+
+/0312823187.php
+/UD912K0.php
+
+# Reference: https://twitter.com/noexceptcpp/status/1740347631816122829
+
+/cve-2016-1531.sh
+/exploit1337.py
+
+# Reference: https://www.virustotal.com/gui/file/e1974c4099cd21cc0b538bdce94f78165930fbfe1f79e7f0fcca3cd276d39bda/detection
+
+/68ce5b29.php
+
+# Reference: https://twitter.com/Merlax_/status/1743380172768784598
+
+/i2m9jn3wm2.php
+
+# Reference: https://threatfox.abuse.ch/ioc/1228977/
+
+/266ba446.php
+
+# Reference: https://threatfox.abuse.ch/ioc/1230683/
+
+/7493c28b.php
+
+# Reference: https://www.virustotal.com/gui/file/29dcf858f36f68827696a9a3ea1b4a821180569ab297d2f73c740b15832302d3/detection
+
+/vj0li6rpzmhtr.php
+
+# Reference: https://www.virustotal.com/gui/file/ed73c5b9cfcc18b8a58f936dd2cf5009599512654ea159b4ccbc479c208063cb/detection
+
+/b%20kzioe%20f.php
+/zg0p9xfcjshtr.php
+
+# Reference: https://www.virustotal.com/gui/file/dcab1d8358b8402218c1015e4e14820c976f15a8d5a8fa16220383e8e39687da/detection
+
+/6wfu21zpaihtr.php
+/fk0wvgc9tlhtr.php
+
+# Reference: https://www.virustotal.com/gui/file/4e4088a4d66846f55d25539314f58f553e915bb4cc5aa9d29bc3a5693ff5948f/detection
+
+/3fz20plk5shtr.php
+/d%20fziog%20n.php
+
+# Reference: https://www.virustotal.com/gui/file/35ac43ff2e2483ea47f78012970092993ba855bda39563f54e8594e653cad3f9/detection
+# Reference: https://www.virustotal.com/gui/file/1c6ecc97d422cd78a972b71ac22e18bec4b4d58511f9a0ad85ed2de9edcd1c35/detection
+
+/h%20lziof%20k.php
+
+# Reference: https://www.virustotal.com/gui/file/2d56047dc2f18420264cf2d9fa454559a346fba937753aab5865f11e1c82b3b3/detection
+
+/$6i7owtj1sv4h0f8.php
+/6i7owtj1sv4h0f8.php
+/l%20eziof%20h.php
+/no27hufp4ehtr.php
+
+# Reference: https://twitter.com/sicehice/status/1745669226935767065
+
+/cve-2021-4034-poc
+/cve-2021-4034-poc.py
+/exploit_nss_u16.py
+/CVE-2021-3156/
+
+# Reference: https://www.virustotal.com/gui/file/9605968addccaa2323334d501b99ab88cd0b879bc8a2b4c5dc1d27c4d27d5e53/detection
+
+/ddsss.ps1
+
 # Generic
 
 /js/altmanluggage.js
@@ -7338,6 +7582,7 @@ tpc.cdn-linkedin.info
 /evreigate.php
 /fcc-authenticazione.php
 /g-analytic.js
+/gate_tor.php
 /gate.php
 /gate01.php
 /gate1.php
@@ -7364,3 +7609,5 @@ tpc.cdn-linkedin.info
 /payload/openAttach/
 /payload/openAttache/
 /payload/openAttachment/
+/modified_ploader.cpp
+/ploader.cpp

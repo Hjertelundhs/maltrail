@@ -1,4 +1,4 @@
-# Copyright (c) 2014-2023 Maltrail developers (https://github.com/stamparm/maltrail/)
+# Copyright (c) 2014-2024 Maltrail developers (https://github.com/stamparm/maltrail/)
 # See the file 'LICENSE' for copying permission
 
 #################################################################
@@ -3668,7 +3668,6 @@
 162.243.152.46 # stretchoid.com
 162.243.152.5 # stretchoid.com
 162.243.152.6 # stretchoid.com
-185.199.109.133 # stretchoid.com
 192.241.192.13 # stretchoid.com
 192.241.192.14 # stretchoid.com
 192.241.192.20 # stretchoid.com
@@ -8072,7 +8071,6 @@
 178.79.181.234 # binaryedge.ninja
 178.79.185.160 # binaryedge.ninja
 178.79.185.221 # binaryedge.ninja
-185.199.109.133 # binaryedge.ninja
 188.166.124.78 # binaryedge.ninja
 188.166.150.184 # binaryedge.ninja
 188.166.154.115 # binaryedge.ninja
